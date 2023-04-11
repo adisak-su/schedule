@@ -1,0 +1,16 @@
+{"level":"error","message":{"class":"RIDListCore","statusCode":401,"statusMessage":"Unauthorized"},"timestamp":"2023-04-10 14:51:05"}
+{"level":"error","message":{"class":"RIDListCore","statusCode":401,"statusMessage":"Unauthorized"},"timestamp":"2023-04-10 14:51:27"}
+{"level":"error","message":{"class":"RIDListCore","statusCode":401,"statusMessage":"Unauthorized"},"timestamp":"2023-04-10 14:51:59"}
+{"level":"error","message":{"class":"RIDListCore","statusCode":401,"statusMessage":"Unauthorized"},"timestamp":"2023-04-10 14:53:54"}
+{"level":"error","message":{"class":"RIDListCore","statusCode":401,"statusMessage":"Unauthorized"},"timestamp":"2023-04-10 14:54:33"}
+{"level":"error","message":{"class":"RIDListCore","statusCode":404,"statusMessage":"Not Found"},"timestamp":"2023-04-10 14:57:01"}
+{"level":"error","message":{"class":"RIDListCore","statusCode":404,"statusMessage":"Not Found"},"timestamp":"2023-04-10 14:58:21"}
+{"level":"error","message":{"class":"RIDListCore","statusCode":-3008,"statusMessage":"ENOTFOUND"},"timestamp":"2023-04-10 14:58:32"}
+{"level":"error","message":{"class":"RIDDataCore","statusCode":404,"statusMessage":"Not Found"},"timestamp":"2023-04-10 15:18:59"}
+{"level":"error","message":{"class":"RIDDataCore","statusCode":404,"statusMessage":"Not Found"},"timestamp":"2023-04-10 15:20:15"}
+{"level":"error","message":{"class":"RIDDataCore","statusCode":404,"statusMessage":"Not Found"},"timestamp":"2023-04-10 15:20:38"}
+{"level":"error","message":{"class":"DailyStationList","statusCode":401,"statusMessage":"Unauthorized"},"timestamp":"2023-04-10 15:28:53"}
+{"level":"error","message":{"class":"DailyStationList","statusCode":404,"statusMessage":"Not Found"},"timestamp":"2023-04-10 15:29:34"}
+{"level":"error","message":{"class":"DailyStationList","statusCode":401,"statusMessage":"Server response null"},"timestamp":"2023-04-10 15:35:39"}
+{"level":"error","message":{"class":"DailyStationList","statusCode":401,"statusMessage":"Unauthorized"},"timestamp":"2023-04-10 15:44:30"}
+{"level":"error","message":{"class":"RIDHourlyTodayFromHydroID","statusCode":401,"statusMessage":"Unauthorized"},"timestamp":"2023-04-10 15:44:58"}
